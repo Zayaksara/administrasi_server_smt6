@@ -30,3 +30,9 @@
 
 10. verify code sms (confirm identity)
 ![alt text](image-9.png)
+
+11. Loading setting up your AWS
+![alt text](image-10.png)
+
+12. Berhasil masuk AWS
+![alt text](image-11.png)
