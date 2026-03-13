@@ -10,8 +10,6 @@
 ![alt text](image-11.png)
 - klik Update
 ![alt text](image-4.png)
-
-
 2. menu CLoudwath
 - all service
 ![alt text](image-5.png)
