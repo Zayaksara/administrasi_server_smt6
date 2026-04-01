@@ -9,7 +9,7 @@
     - Port: 22
     - Klik Connect
 ![alt text](image.png)
-![alt text](image-1.png)
+![alt text](image-9.png)
 4. Remote SSH via PowerShell Windows
     - masuk folder penyimpanan private key
     - open with -> powershell
