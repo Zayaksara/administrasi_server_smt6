@@ -21,9 +21,9 @@
  - Create DB nama dbcompro_NIM => CREATE DATABASE dbcompro_NIM;
 ![alt text](image-1.png)
   - Create User dengan nama = usrcompro_NIM dan password = [PASSWORD] => CREATE USER 'usrcompro_NIM'@'localhost' IDENTIFIED BY '[PASSWORD]';
-![alt text](image-2.png)
+<img width="991" height="573" alt="image" src="https://github.com/user-attachments/assets/fe7b5b15-465f-4a0b-b612-9a198b9c58d0" />
   - Grant user akses ke DB yang baru dibuat => GRANT ALL PRIVILEGES ON dbcompro_NIM.* TO 'usrcompro_NIM'@'localhost';
   - Flush privileges => FLUSH PRIVILEGES;
   - exit;
   - login sebagai usrcompro_NIM dan cek apakah bisa akses ke DB yang baru dibuat
-![alt text](image-3.png)
+<img width="992" height="575" alt="image" src="https://github.com/user-attachments/assets/c0499039-1be7-49fb-a7c6-38eec794325b" />
