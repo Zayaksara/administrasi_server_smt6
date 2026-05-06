@@ -10,6 +10,6 @@
  - testing Back end http://localhost:3000/admin
     username: admin
     password: admin123
-    ![alt text](image.png)
+    <img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/263c4932-a58a-4681-88ae-7c6648019f7d" />
    - Create static File -> npm run build
    - Archive folder standalone -> zip -> klik kanan folder standalone -> send to -> compressed (zipped) folder
